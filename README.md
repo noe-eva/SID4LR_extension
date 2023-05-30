@@ -6,7 +6,7 @@ The shared task is available here: https://bitbucket.org/robvanderg/sid4lr/src/m
 
 Please cite this paper for the SID4LR shared task and for v4.0 of the xSID corpus.
 
-'''
+```
 @inproceedings{aepli-etal-2023-findings,
     title = "Findings of the {V}ar{D}ial Evaluation Campaign 2023",
     author = {Aepli, No{\"e}mi  and
@@ -28,4 +28,4 @@ Please cite this paper for the SID4LR shared task and for v4.0 of the xSID corpu
     pages = "251--261",
     abstract = "This report presents the results of the shared tasks organized as part of the VarDial Evaluation Campaign 2023. The campaign is part of the tenth workshop on Natural Language Processing (NLP) for Similar Languages, Varieties and Dialects (VarDial), co-located with EACL 2023. Three separate shared tasks were included this year: Slot and intent detection for low-resource language varieties (SID4LR), Discriminating Between Similar Languages {--} True Labels (DSL-TL), and Discriminating Between Similar Languages {--} Speech (DSL-S). All three tasks were organized for the first time this year.",
 }
-'''
+```
