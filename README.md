@@ -4,7 +4,7 @@ This repository contains the **dialect extension** to the xSID corpus by van der
 
 The shared task is available here: https://bitbucket.org/robvanderg/sid4lr/src/master/
 
-Please cite this paper for the SID4LR shared task and for v4.0 of the xSID corpus.
+Please cite the paper [_Findings of the VarDial Evaluation Campaign 2023_](https://aclanthology.org/2023.vardial-1.25/) for the SID4LR shared task and if you use v4.0 of the xSID corpus.
 
 ```
 @inproceedings{aepli-etal-2023-findings,
